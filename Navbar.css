@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.navbar {
+  background-color: #423e3e;
+  padding: 15px; 
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1000; 
+}
+
+.navbar a {
+  color: white; 
+  text-decoration: none;
+  margin: 0 15px;
+}
+.navbar a:hover {
+  color: #ffcc00; 
+}
